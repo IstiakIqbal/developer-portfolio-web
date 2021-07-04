@@ -1,6 +1,8 @@
+
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    background-color: rgb(19, 19, 19);
 }
 h1{
     font-size: 50px;
@@ -15,6 +17,7 @@ section{
 .text{
     width: 50%;
     padding-left: 5%;
+    color: white;
 }
 .pic{
     width: 50%;
@@ -32,11 +35,11 @@ a{
     color: white;
 }
 .first{
-    background-image: url(images/top-banner.png);
+    background-image: url(images/test.jpg);
     background-repeat: no-repeat;
 }
 .second{
-    background-image: url(images/dream-bg.png);
+    background-image: url(images/test.jpg);
     background-repeat: no-repeat;
     background-position: right;
 }
