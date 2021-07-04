@@ -10,10 +10,11 @@ color: crimson;
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .text{
     width: 50%;
-    padding-left: 2%;
+    padding-left: 5%;
 }
 .pic{
     width: 50%;
@@ -33,4 +34,9 @@ a{
 .first{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.second{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
